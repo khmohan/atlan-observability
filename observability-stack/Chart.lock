@@ -1,0 +1,15 @@
+dependencies:
+- name: prometheus
+  repository: file://charts/prometheus
+  version: 1.0.0
+- name: grafana
+  repository: file://charts/grafana
+  version: 1.0.0
+- name: loki
+  repository: file://charts/loki
+  version: 1.0.0
+- name: opentelemetry
+  repository: file://charts/opentelemetry
+  version: 1.0.0
+digest: sha256:0874e01560877faed57dfddf0688366cc1a0cf53a27adfbf2a93cfafea3b5fb1
+generated: "2025-03-30T10:31:16.9669914+05:30"
